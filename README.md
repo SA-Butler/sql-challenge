@@ -1,9 +1,9 @@
 # sql-challenge
 Module 9 Challenge
 
-In this solution (in employeesql) to the challenge there are two SQL Files, namely Development-TableSet.sql which contains the table creation script and Emp_db-Queries.sql which contains the solution to the queries set in the assignment, suitably annotated with comments relating to the relevant question to be answered.
+In this solution (in EmployeeSQL directory) to the challenge there are two SQL Files, namely Development-TableSet.sql (which contains the table creation script) and Emp_db-Queries.sql (which contains the solution script to the queries set in the assignment, suitably annotated with comments relating to the relevant question to be answered).
 
-For the import of the csv files to populate the tables it was found necessary to import in the following order:
+For the import of the csv files (in the DATA Directory) to populate the tables, it was found necessary to import in the following order:
 
 1. Titles
 2. Employees
@@ -12,4 +12,4 @@ For the import of the csv files to populate the tables it was found necessary to
 5. Dept_Emp
 6. Dept_Manager
 
-Some difficuties were found with the DATE types. However on taking advice a VARCHAR was utilised with the search executed on the year at the end of the field. This would need looking at for additional queries containing dates.
+Some difficuties were found with the DATE types. However, on taking advice, a VARCHAR type was utilised with the search executed on the year at the end of the field. This would need looking at for additional queries containing dates.
