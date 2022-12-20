@@ -1,7 +1,7 @@
 # sql-challenge
 Module 9 Challenge
 
-In this solution (in EmployeeSQL directory) to the challenge there are two SQL Files, namely Development-TableSet.sql (which contains the table creation script) and Emp_db-Queries.sql (which contains the solution script to the queries set in the assignment, suitably annotated with comments relating to the relevant question to be answered).
+In this solution to the challenge (in EmployeeSQL directory) there are two SQL Files, namely Development-TableSet.sql (which contains the table creation script) and Emp_db-Queries.sql (which contains the solution script to the queries set in the assignment, suitably annotated with comments relating to the relevant question to be answered).
 
 For the import of the csv files (in the DATA Directory) to populate the tables, it was found necessary to import in the following order:
 
